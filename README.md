@@ -1,4 +1,4 @@
-# Fork of original LevelDB which is not left incomplete
+# Fork of original LevelDB which is left incomplete
 
 ## It is not ready for production use. Some features aren't implemented yet. Documentation is missing.
 
